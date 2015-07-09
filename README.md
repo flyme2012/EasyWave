@@ -6,3 +6,5 @@ odelled on other applications (360Root) special effects, from a circle around th
 You can set the speed of diffusion, you can set the color of water, and so on.
 Small Demo to learn to customize.
 
+ ![image](https://raw.githubusercontent.com/flyme2012/EasyWave/master/123.gif)
+
